@@ -6,8 +6,18 @@
     <description>Recent content on Lithium Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2017 21:48:51 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 19 Feb 2017 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;This is a blog site reserved for career consulting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Career Consulting for High Performers</title>
@@ -28,16 +38,6 @@
 &lt;p&gt;It has been over three years since I signed up as a career adviser for Everwise. It is a volunteer work which I committed 1 hour each month to conference call or meet with pretoge for their career development needs. I would refelect that I learn much from this experience.&lt;/p&gt;
 &lt;p&gt;This site is to provide a reflection to the topics and discussions. Provide materials for future proteges. The topics would be general without disclosing confidentiality of my proteges.&lt;/p&gt;
 &lt;p&gt;The matched proteges are all coming from Silicon Valley high tech companies. I would categorize them in the high performer. Therefore the title.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
