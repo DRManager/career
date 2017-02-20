@@ -1,15 +1,15 @@
 ---
-title: Career Consulting for High Performers
-author: Richard Yang
+title: "Career Consulting for High Performers"
+author: "Richard Yang"
 date: '2017-02-19'
-categories:
-  - Career
-tags:
-  - R Markdown
+tags: R Markdown
+categories: Career
 ---
 
-It has been over three years since I signed up as a career adviser for Everwise. It is a volunteer work which I committed 1 hour each month to conference call or meet with pretoge for their career development needs. I would refelect that I learn much from this experience.
+It has been over three years since I signed up as a career mentor for [Everwise](https://www.geteverwise.com/). It is a volunteer work, which I committed about one hour each month to meet my protégé for their career development needs. I myself have got a lot of help along my career, this is a work to give back to the community and reach out to more people. 
 
-This site is to provide a reflection to the topics and discussions. Provide materials for future proteges. The topics would be general without disclosing confidentiality of my proteges.
+This site is to provide a reflection to the topics and discussions. Provide materials for future protégés. The topics would be general without disclosing confidentiality of my proteges.
 
-The matched proteges are all coming from Silicon Valley high tech companies. I would categorize them in the high performer. Therefore the title.
+
+The matched protégés are all coming from Silicon Valley high tech companies such as Google, Saleforce and high growth start-up comapnies. I would categorize them in the high performers (HiPo). Therefore the title.
+

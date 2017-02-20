@@ -15,11 +15,14 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/DRManager/career"
+    name = "Home"
+    url = "https://drmanager.github.io/career/"
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/richardyang01"
 
 [params]
-    description = "Career consulting for high performancers."
+    description = "Career consulting for high performers."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.9.0"
