@@ -17,10 +17,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Home"
     url = "https://drmanager.github.io/career/"
-[[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/richardyang01"
-
 [params]
     description = "Career consulting for high performers."
 
